@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+<category><pattern>代长侠</pattern><template>老板</template></category>
+<category><pattern>代长侠</pattern><template>侠客行</template></category>
+<category><pattern>你好吗</pattern><template>我很好</template></category>
+<category><pattern>1</pattern><template>2</template></category>
+<category><pattern>12345</pattern><template>上山打老虎</template></category>
+<category><pattern>111</pattern><template>222</template></category>
+<category><pattern>我是谁</pattern><template>我是babi</template></category>
+<category><pattern>奥巴马</pattern><template>一种很好吃的饼干</template></category>
+<category><pattern>大大</pattern><template>小小</template></category>
+<category><pattern>我是谁</pattern><template>你是我老子</template></category>
+</aiml>

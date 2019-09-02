@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<aiml>
+  <category>
+    <pattern>啊 啊</pattern>
+    <template>啊啊啊,你啊我也啊</template>
+  </category>
+</aiml>
