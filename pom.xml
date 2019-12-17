@@ -9,11 +9,11 @@
 		<version>2.1.1.RELEASE</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>madp-chatbot-service</groupId>
-	<artifactId>madp-chatbot-service</artifactId>
+	<groupId>chatbot-service</groupId>
+	<artifactId>chatbot-service</artifactId>
 	<version>1.0.0</version>
-	<name>madp-chatbot-service</name>
-	<description>madp-chatbot-service</description>
+	<name>chatbot-service</name>
+	<description>chatbot-service</description>
 
 	<properties>
 		<java.version>1.8</java.version>
